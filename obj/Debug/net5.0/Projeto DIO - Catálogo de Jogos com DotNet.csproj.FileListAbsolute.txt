@@ -1,0 +1,35 @@
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.exe
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.deps.json
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.runtimeconfig.json
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.runtimeconfig.dev.json
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\ref\Projeto DIO - Catálogo de Jogos com DotNet.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.pdb
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.AssemblyInfo.cs
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\staticwebassets\Projeto DIO - Catálogo de Jogos com DotNet.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\staticwebassets\Projeto DIO - Catálogo de Jogos com DotNet.StaticWebAssets.xml
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\scopedcss\bundle\Projeto DIO - Catálogo de Jogos com DotNet.styles.css
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.csproj.CopyComplete
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\ref\Projeto DIO - Catálogo de Jogos com DotNet.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.pdb
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\obj\Debug\net5.0\Projeto DIO - Catálogo de Jogos com DotNet.genruntimeconfig.cache
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Projeto DIO - Catálogo de Jogos com DotNet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
